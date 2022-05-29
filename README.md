@@ -32,3 +32,13 @@ Starting with a beautiful landing page, the user heads next to a page with navig
 Car Dashboard contains all the EDA done on the car dataset. It has several categories for easy access.
 Mileage Predictor contains several input boxes for the user to input values. Based on the input prediction model predicts and gives estimated mileage.
 Price Predictor also contains several input boxes for the user to input values. Based on the input prediction model predicts and gives estimated selling price the user will get.
+
+
+![Screenshot (165)](https://user-images.githubusercontent.com/88205144/170848808-a0567619-a937-4dd1-a17b-d533e5137ef8.png)
+
+![Screenshot (166)](https://user-images.githubusercontent.com/88205144/170848816-bb99f5c2-4ab1-41e6-ad86-bd6992d86532.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/88205144/170848818-53ed9642-9db9-40e5-9c92-cfc721c335ef.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/88205144/170848821-6af3ad61-51cd-4f4f-b3fc-69fee9c1b587.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/88205144/170848822-22de1aea-f2dc-4c07-8c46-1d4e2e50d1ce.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/88205144/170848825-f14517a2-696d-4c30-90c5-d0cdb00f551a.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/88205144/170848826-7e48c13f-cd41-499e-be48-7b713d5dc92e.png)
