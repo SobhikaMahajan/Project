@@ -38,6 +38,10 @@ Microsoft Car Finder helps to analyze and visualise automative dataset and also 
 **OR**
 **For viewing deployed app click** ----
 
+## Important
+Documentation: https://drive.google.com/file/d/1ldA1j3PCUzlDh6Trm50wQUtB8clNr0RJ/view?usp=sharing
+
+
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
 
 Car Dashboard contains all the EDA done on the car dataset. It has several categories for easy access.
@@ -52,8 +56,6 @@ Price Predictor also contains several input boxes for the user to input values. 
 <br/><br/>
 ![Screenshot (179)](https://user-images.githubusercontent.com/88205144/170849256-8ebfe427-75e6-4fc9-995c-c69c15f774c7.png)
 
-
-
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -61,8 +63,6 @@ Price Predictor also contains several input boxes for the user to input values. 
 **Navigation bar takes user to three dashboards.**
 <br/><br/>
 ![Screenshot (180)](https://user-images.githubusercontent.com/88205144/170849266-bbe8a1ce-6182-434d-81a8-b784f4120b29.png)
-
-
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -72,8 +72,6 @@ Price Predictor also contains several input boxes for the user to input values. 
 ![Screenshot (181)](https://user-images.githubusercontent.com/88205144/170849270-d66d0428-b135-4ec0-befb-7b087e5e5835.png)
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/88205144/170849271-b4bd29ca-e54a-475e-aaad-1bcd3ad54098.png)
-
-
 
 <br/><br/>
 <br/><br/>
@@ -89,11 +87,20 @@ Price Predictor also contains several input boxes for the user to input values. 
 
 <br/><br/>
 
-
 Apart from this I have attached a presentation on my project. It contains explanation of the project.
 Also , I am still developing, so will keep improving over time, open to ideas.
 <br/><br/>
+
+## Reach Me
 Sobhika Mahajan
+<p>
+  <a href="[https://www.linkedin.com/[removed]](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/)" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="[https://github.com/[removed]](https://github.com/SobhikaMahajan)" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 
 
