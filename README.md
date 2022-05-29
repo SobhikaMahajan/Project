@@ -13,19 +13,19 @@ The tech-stack which I used in this project are:
 2) Streamlit(python framework)
 
 Requirements:
-matplotlib==3.5.1
-numpy==1.22.3
-pandas==1.4.2
-plotly==5.8.0
-plotly-express==0.4.1
-seaborn==0.11.2
-streamlit==1.9.0
-streamlit-lottie==0.0.3
-streamlit-option-menu==0.3.2
-matplotlib-inline==0.1.3
-pydeck==0.7.1
-statsmodels==4.9.2
-scipy==1.4.1
+1) matplotlib==3.5.1
+2) numpy==1.22.3
+3) pandas==1.4.2
+4) plotly==5.8.0
+5) plotly-express==0.4.1
+6) seaborn==0.11.2
+7) streamlit==1.9.0
+8) streamlit-lottie==0.0.3
+9) streamlit-option-menu==0.3.2
+10) matplotlib-inline==0.1.3
+11) pydeck==0.7.1
+12) statsmodels==4.9.2
+13) scipy==1.4.1
 
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
 
