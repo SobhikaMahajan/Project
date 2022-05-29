@@ -37,7 +37,7 @@ Microsoft Car Finder helps to analyze and visualise automative dataset and also 
 <br></br>
 
 ## Important
-Documentation: https://drive.google.com/file/d/1L0hw7PfBvH5JbOfJn3EjbJa3DFfhRJXx/view?usp=sharing
+Documentation: https://drive.google.com/file/d/1G3nnuHxC7txh2001IrLaDYJdnHkdqPbW/view?usp=sharing
 
 
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
@@ -51,33 +51,35 @@ Price Predictor also contains several input boxes for the user to input values. 
 
 **This is the home page. It contains a navigation bar and Car Dashboard as main page.**
 <br/><br/>
-![Screenshot (179)](https://user-images.githubusercontent.com/88205144/170849256-8ebfe427-75e6-4fc9-995c-c69c15f774c7.png)
+![Screenshot (196)](https://user-images.githubusercontent.com/88205144/170859892-2abd8be4-515e-4a43-a920-9e7c3cd89564.png)
+
 
 <br/><br/>
 <br/><br/>
 
 **Navigation bar takes user to three dashboards.**
 <br/><br/>
-![Screenshot (180)](https://user-images.githubusercontent.com/88205144/170849266-bbe8a1ce-6182-434d-81a8-b784f4120b29.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/88205144/170859928-ce0b9ced-e409-41d0-8c03-1bdc94fb7e1e.png)
 
 <br/><br/>
 <br/><br/>
 
 **This is the mileage predictor. It takes input from the user and generates predicted mileage.**
 <br/><br/>
-![Screenshot (181)](https://user-images.githubusercontent.com/88205144/170849270-d66d0428-b135-4ec0-befb-7b087e5e5835.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/88205144/170859933-7352929c-bd0d-437a-86e8-4da381c483b4.png)
 
-![Screenshot (182)](https://user-images.githubusercontent.com/88205144/170849271-b4bd29ca-e54a-475e-aaad-1bcd3ad54098.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/88205144/170859935-f63efb0d-ec21-485d-b929-adb76ea45047.png)
+![Screenshot (201)](https://user-images.githubusercontent.com/88205144/170859965-498f8481-0ca5-4dd3-9466-e461102d9b63.png)
+
 <br/><br/>
 <br/><br/>
-
 **This is the Price predictor. It takes input from the user and generates predicted selling price.**
 <br/><br/>
-![Screenshot (183)](https://user-images.githubusercontent.com/88205144/170849281-a0b89761-fb25-4608-83e6-1434e22bfa4d.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/88205144/170859976-9022f258-779d-4260-8d96-dad0d20d6d8f.png)
 
-![Screenshot (184)](https://user-images.githubusercontent.com/88205144/170849283-02a2c2c0-987e-447e-af45-ba86be301f76.png)
+/user-images.githubusercontent.com/88205144/170849283-02a2c2c0-987e-447e-af45-ba86be301f76.png)
 
-![Screenshot (185)](https://user-images.githubusercontent.com/88205144/170849285-d544d23f-f665-40c3-ae96-ab1f126f42d3.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/88205144/170859982-f94e8d02-672f-4453-9a79-b710f6b3036e.png)
 
 <br/><br/>
 
