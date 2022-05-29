@@ -77,7 +77,8 @@ Price Predictor also contains several input boxes for the user to input values. 
 <br/><br/>
 ![Screenshot (202)](https://user-images.githubusercontent.com/88205144/170859976-9022f258-779d-4260-8d96-dad0d20d6d8f.png)
 
-/user-images.githubusercontent.com/88205144/170849283-02a2c2c0-987e-447e-af45-ba86be301f76.png)
+![Screenshot (203)](https://user-images.githubusercontent.com/88205144/170860021-c0454763-0b00-45ee-87bd-bab1e831205f.png)
+
 
 ![Screenshot (204)](https://user-images.githubusercontent.com/88205144/170859982-f94e8d02-672f-4453-9a79-b710f6b3036e.png)
 
