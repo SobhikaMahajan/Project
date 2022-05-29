@@ -8,11 +8,15 @@ This repository contains the solution to Data Analysis problem statement of Micr
 
 Microsoft Car Finder helps to analyze and visualise automative dataset and also predict selling car price and mileage. This solves the problem of a user who wishes to analyze his car or wants to know the selling car price/mileage of his/her car.
 
-The tech-stack which I used in this project are:
-1) Python and its libraries
+## The tech-stack which I used in this project are:
+1) Python
 2) Streamlit(python framework)
+3) Numpy
+4) Pandas
+5) Matplotlib
+6) Seaborn
 
-Requirements:
+## Requirements:
 1) matplotlib==3.5.1
 2) numpy==1.22.3
 3) pandas==1.4.2
@@ -26,6 +30,13 @@ Requirements:
 11) pydeck==0.7.1
 12) statsmodels==4.9.2
 13) scipy==1.4.1
+
+## Installation
+1) RUN : git clone https://github.com/SobhikaMahajan/Project.git or Download the repository.
+2) Extract it and RUN file : app.py
+3) <br></br>
+**OR**
+**For viewing deployed app click** ----
 
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
 
