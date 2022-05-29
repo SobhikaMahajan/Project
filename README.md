@@ -93,8 +93,8 @@ Also , I am still developing, so will keep improving over time, open to ideas.
 
 
 ## Project Submission for Microsoft Enagage 2022
-Sobhika Mahajan
+**Sobhika Mahajan**
 
-B.Tech Computer Science
+**B.Tech Computer Science**
 
-Banasthali Vidyapith
+**Banasthali Vidyapith**
