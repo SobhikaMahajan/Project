@@ -33,20 +33,33 @@ Car Dashboard contains all the EDA done on the car dataset. It has several categ
 Mileage Predictor contains several input boxes for the user to input values. Based on the input prediction model predicts and gives estimated mileage.
 Price Predictor also contains several input boxes for the user to input values. Based on the input prediction model predicts and gives estimated selling price the user will get.
 
+
+
 This is the home page. It contains a navigation bar and Car Dashboard as main page.
 ![image](https://user-images.githubusercontent.com/88205144/170848860-22ba93f0-7372-40fd-9b75-74ff5c687784.png)
+
+
 
 Navigation bar takes user to three dashboards.
 ![image](https://user-images.githubusercontent.com/88205144/170848872-4289a7bb-4712-4346-b84d-e9e6053e30cf.png)
 
+
+
 This is the mileage predictor. It takes input from the user and generates predicted mileage.
 ![image](https://user-images.githubusercontent.com/88205144/170848921-7c89d95a-211f-45ff-9160-052d697df121.png)
+
 ![image](https://user-images.githubusercontent.com/88205144/170848940-1763445b-e119-4697-8510-ee3c51a1f619.png)
+
+
 
 This is the Price predictor. It takes input from the user and generates predicted selling price.
 ![image](https://user-images.githubusercontent.com/88205144/170848954-6c06b47a-a6ec-4dd2-8de4-0420a1d84ada.png)
+
 ![image](https://user-images.githubusercontent.com/88205144/170848966-8bf83c96-4e50-4bfe-94ee-70905b2d1bf4.png)
+
 ![image](https://user-images.githubusercontent.com/88205144/170848976-9f33038c-d9fd-4b65-99be-1e8fa4bac31b.png)
+
+
 
 
 Apart from this I have attached a presentation on my project. It contains explanation of the project.
