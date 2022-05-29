@@ -39,7 +39,9 @@ Microsoft Car Finder helps to analyze and visualise automative dataset and also 
 ## Important
 Documentation: https://drive.google.com/file/d/1G3nnuHxC7txh2001IrLaDYJdnHkdqPbW/view?usp=sharing
 
-
+Video Link: 
+<br></br>
+## About
 Starting with a beautiful landing page, the user heads next to a page with navigation bar. The navigation bar has the takes us to three dashboard namely Car Dashboard, Mileage Predictor and Price Predictor.
 
 Car Dashboard contains all the EDA done on the car dataset. It has several categories for easy access.
@@ -47,8 +49,6 @@ Mileage Predictor contains several input boxes for the user to input values. Bas
 Price Predictor also contains several input boxes for the user to input values. Based on the input prediction model predicts and gives estimated selling price the user will get.
 
 <br/><br/>
-<br/><br/>
-
 # Screenshots
 
 **This is the home page. It contains a navigation bar and Car Dashboard as main page.**
