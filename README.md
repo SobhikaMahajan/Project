@@ -38,7 +38,9 @@ Price Predictor also contains several input boxes for the user to input values. 
 This is the home page. It contains a navigation bar and Car Dashboard as main page.
 ![image](https://user-images.githubusercontent.com/88205144/170848860-22ba93f0-7372-40fd-9b75-74ff5c687784.png)
 
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 Navigation bar takes user to three dashboards.
 ![image](https://user-images.githubusercontent.com/88205144/170848872-4289a7bb-4712-4346-b84d-e9e6053e30cf.png)
