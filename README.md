@@ -34,7 +34,7 @@ Microsoft Car Finder helps to analyze and visualise automative dataset and also 
 ## Installation
 1) RUN : git clone https://github.com/SobhikaMahajan/Project.git or Download the repository.
 2) Extract it and RUN file : app.py
-3) <br></br>
+3)  <br></br>
 
 ## Important
 Documentation: https://drive.google.com/file/d/1ldA1j3PCUzlDh6Trm50wQUtB8clNr0RJ/view?usp=sharing
