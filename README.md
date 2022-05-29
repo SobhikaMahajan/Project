@@ -93,14 +93,7 @@ Also , I am still developing, so will keep improving over time, open to ideas.
 
 ## Reach Me
 Sobhika Mahajan
-<p>
-  <a href="[https://www.linkedin.com/[removed]](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/)" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="[https://github.com/[removed]](https://github.com/SobhikaMahajan)" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-mahajan-16776b1b8/) )
 
 
 
